@@ -1,0 +1,25 @@
+
+*.[sS]
+*.[Oo]
+*.a
+*.swp
+*.vim
+*.tgz
+*.out
+*.class
+*.iml
+*.DS_Store
+
+# eclipse 中间生成文件
+bin/
+gen/
+
+# gradle 配置文件
+gradlew
+gradlew.bat
+local.properties
+
+# gradle 中间生成文件
+build/
+.idea/
+.gradle/
