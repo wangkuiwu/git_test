@@ -2,3 +2,6 @@
 git test
 
 == first commit
+
+== second commit
+
